@@ -14,5 +14,8 @@
     "matchit"
   ],
   "author": "siddarthvader",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "css-media-all": "^1.2.0"
+  }
 }

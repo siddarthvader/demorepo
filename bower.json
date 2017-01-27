@@ -1,0 +1,25 @@
+{
+  "name": "matchit",
+  "description": "matching things and images",
+  "main": "script.js",
+  "authors": [
+    "siddarthvader"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "matchit"
+  ],
+  "homepage": "https://github.com/siddarthvader/demorepo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webrtc-adapter": "^3.1.0",
+    "interactjs": "^1.2.8",
+    "darkroom": "darkroomjs#^2.0.1"
+  }
+}
